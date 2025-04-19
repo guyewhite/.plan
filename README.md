@@ -3,6 +3,7 @@ A growing collection of my .plan files. You can learn about [.plan files](https:
 
 ## 2025
 [250418](2025/250418.md)
+[250419](2025/250419.md)
 
 ## 2024
 [241212](2024/241212.md)
