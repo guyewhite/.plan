@@ -2,6 +2,7 @@
 A growing collection of my .plan files. You can learn about [.plan files](https://youtu.be/I845O57ZSy4?si=gUlCXAdB73OYbl1U&t=4308) thanks to John Carmack and Lex Fridman in [this interview](https://youtu.be/I845O57ZSy4?si=gUlCXAdB73OYbl1U&t=4308).
 
 ## 2025
+[250429](2025/250429.md)
 [250424](2025/250424.md)
 [250423](2025/250423.md)
 [250422](2025/250422.md)
